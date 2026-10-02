@@ -1,0 +1,31 @@
+{
+  "name": "masterclass-bootcamp-rag",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "🚀 Masterclass sobre Arquitectura RAG (Retrieval-Augmented Generation) para AI Engineering. Incluye slides interactivas con demo en tiempo real, notebooks de live coding (Colab) y cuestionario en vivo.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isabela-Tellez/Masterclass-Bootcamp-RAG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isabela-Tellez/Masterclass-Bootcamp-RAG/issues"
+  },
+  "homepage": "https://github.com/Isabela-Tellez/Masterclass-Bootcamp-RAG#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "vite": "^8.3.2"
+  }
+}
