@@ -27,6 +27,16 @@ Esta masterclass combina **teoría, una presentación interactiva, una demo de r
 
 ---
 
+## 🧙🏻‍♂️ Ver Masterclass en Vivo 🥷🏻
+
+<p align="center">
+  <a href="https://masterclass-bootcamp-rag.vercel.app/">
+    <img src="https://img.shields.io/badge/🧙🏻‍♂️%20%20Explorar%20RAG%20🥷🏻-9333EA?style=for-the-badge&labelColor=1E1033" alt="Explorar RAG">
+  </a>
+</p>
+
+---
+
 ## 📁 ¿Qué hay en este repositorio?
 
 ```
