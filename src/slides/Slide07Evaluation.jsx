@@ -16,7 +16,7 @@ const Slide07Evaluation = () => (
           <strong>EL CONSEJO GALÁCTICO</strong>
           <p>
             Antes de aprobar al Archivero Ninja, debemos comprobar
-            res cosas: que encuentre la evidencia correcta, que el Sabio
+            tres cosas: que encuentre la evidencia correcta, que el Sabio
             no invente información y que la respuesta resuelva la pregunta.
           </p>
         </div>
